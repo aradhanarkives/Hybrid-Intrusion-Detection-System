@@ -1,0 +1,7 @@
+failed_attempts,connection_count,unique_ports,packet_count,bytes_transferred,label
+1,5,2,50,5000,0
+2,8,3,70,7000,0
+8,60,15,500,50000,1
+10,80,20,700,80000,1
+0,4,1,40,3000,0
+7,55,12,450,45000,1
